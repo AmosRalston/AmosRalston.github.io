@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "AmosRalston.Github.IO",
+    "description": "",
+    "home_page_url": "https://AmosRalston.github.io",
+    "feed_url": "https://AmosRalston.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Amos Ralston"
+    },
+    "items": [
+        {
+            "id": "https://AmosRalston.github.io/hello.html",
+            "url": "https://AmosRalston.github.io/hello.html",
+            "title": "Hello",
+            "summary": "Greetings, Just working on setting the sync and making sure it is going to work. We'll see how it goes, it's not been working for me very well. ",
+            "content_html": "<p>Greetings, </p>\n<p>Just working on setting the sync and making sure it is going to work. We'll see how it goes, it's not been working for me very well. </p>",
+            "author": {
+                "name": "Amos Ralston"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-04-07T23:06:43-05:00",
+            "date_modified": "2019-04-07T23:06:43-05:00"
+        }
+    ]
+}
